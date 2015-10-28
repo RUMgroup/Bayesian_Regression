@@ -19,5 +19,8 @@ Then run BMLRexample.R
 
 For the Python notebook example of Gaussian Processes you need to install gpy - see [here](https://github.com/SheffieldML/GPy), section Getting started: installing with pip
 
+## Further information
+See [this link](http://www.jameskeirstead.ca/blog/gaussian-process-regression-with-r/#code) for R code implementing GP regression.
 
+See [this link](https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/) for a native R implementation of Metropolis Hastings, a basic MCMC variant.
 
